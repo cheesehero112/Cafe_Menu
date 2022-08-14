@@ -27,7 +27,7 @@ Cafe menu is created using HTML and CSS. Image and texts are flexible to the bro
 
 Screenshot of Cafe Menu below
 
-
+![cafemenu-screenshot](https://github.com/cheesehero112/Cafe_Menu/raw/main/cafemenu.screenshot.png)
 
 
 
