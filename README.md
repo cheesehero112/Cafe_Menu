@@ -16,10 +16,10 @@ Cafe menu is created using HTML and CSS. Image and texts are flexible to the bro
   - This file is in the root folder and contains the HTML file
 
 - styles.css
-  - This file is in the root folder and contains the HTML file
+  - This file is in the root folder and contains the CSS file
 
 - cafe menu screenshot
-  - This file is in the root folder and shows the screenshot of the rendered result 
+  - This file is in the root folder and contains the PNG file of the rendered result 
 
 
 
